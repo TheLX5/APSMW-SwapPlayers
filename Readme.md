@@ -1,4 +1,4 @@
-# Swap Players v1.0
+# Swap Players
   Made by lx5
   For Archipelago SMW v2
 
